@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+You can change automated message when new contribute to create an `issue`, `pull requests` and when there is a `merge`.
