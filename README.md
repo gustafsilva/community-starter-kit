@@ -1,10 +1,10 @@
-# welcome bot: A Probot App
+# Gusta Probot App
 
-DESCRIPTION PLACEHOLDER
+Helping Mona :robot: get the Welcome-bot repository ready for the open source community (GitHub Learning Lab course).
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Configue project to start project with open source in GitHub.
 
 ## Getting started
 
