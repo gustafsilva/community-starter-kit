@@ -16,5 +16,6 @@ There are many ways you can help us make this project better. Every repository i
 - **bug-high-priority**: Bug with high priority.
 - **bug-low-priority**: Bug with low priority.
 - **help-wanted**: We need this improvement.
+- **hacktoberfest**: Digital Ocean Occurrence Event Created by Digital Ocean.
 
 You can also help by translating documentation and reviewing open pull requests.
